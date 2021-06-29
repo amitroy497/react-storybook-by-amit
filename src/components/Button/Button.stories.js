@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from './Button'
-import Center from '../Center/Center'
+// import Center from '../Center/Center'
 
 export default {
   title: 'form/Button',
