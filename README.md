@@ -66,13 +66,16 @@ Create a folder name components in ./src
 Create a folder Button in ./src/components
 
 Create following files in ./src/components/Button
+
 Button.css
+
 Button.js
-Button.stories.
+
+Button.stories.js
 
 <!-- ./src/components/Button/Button.js -->
 
-![Button-js](./readme-images/Buttonjs.PNG)
+![Button-js](./readme-images/writing-stories/Buttonjs.PNG)
 
 <!-- ./src/components/Button/Button.css -->
 
