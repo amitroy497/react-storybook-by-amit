@@ -72,10 +72,10 @@ Button.stories.
 
 <!-- ./src/components/Button/Button.js -->
 
-![Button-js](./readme-images/Buttonjs.PNG)
+![Button-js](./readme-images/writing-stories/Buttonjs.PNG)
 
 <!-- ./src/components/Button/Button.css -->
 
 <!-- ./src/components/Button/Button.stories.js -->
 
-![Button-stories-js](./readme-images/Buttonstoriesjs.PNG)
+![Button-stories-js](./readme-images/writing-stories/Buttonstoriesjs.PNG)
