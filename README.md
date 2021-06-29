@@ -22,4 +22,23 @@ npx sb init
 
 yarn storybook
 
-![image](./readme-images/Capture.PNG)
+### Writing Stories
+
+Create a folder name components in ./src
+
+Create a folder Button in ./src/components
+
+Create following files in ./src/components/Button
+Button.css
+Button.js
+Button.stories.
+
+<!-- ./src/components/Button/Button.js -->
+
+![image](./readme-images/buttonjs.PNG)
+
+<!-- ./src/components/Button/Button.css -->
+
+<!-- ./src/components/Button/Button.stories.js -->
+
+![image](./readme-images/buttonstoriesjs.PNG)
