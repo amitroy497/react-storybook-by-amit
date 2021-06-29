@@ -21,3 +21,5 @@ Feedback of the accessibility score of the components like color contrast.
 npx sb init
 
 yarn storybook
+
+![image](./readme-images/Capture.PNG)
