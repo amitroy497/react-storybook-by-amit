@@ -72,7 +72,7 @@ Button.stories.
 
 <!-- ./src/components/Button/Button.js -->
 
-![Button-js](./readme-images/writing-stories/Buttonjs.PNG)
+![Button-js](./readme-images/Buttonjs.PNG)
 
 <!-- ./src/components/Button/Button.css -->
 
