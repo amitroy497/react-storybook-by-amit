@@ -79,10 +79,3 @@ Button.stories.
 <!-- ./src/components/Button/Button.stories.js -->
 
 ![Button-stories-js](./readme-images/Buttonstoriesjs.PNG)
-)
-
-<!-- ./src/components/Button/Button.css -->
-
-<!-- ./src/components/Button/Button.stories.js -->
-
-![image](./readme-images/buttonstoriesjs.PNG)
