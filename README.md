@@ -75,10 +75,32 @@ Button.stories.js
 
 <!-- ./src/components/Button/Button.js -->
 
-![Button-js](./readme-images/writing-stories/Buttonjs.PNG)
+![Button-js](./readme-images/writing-stories/button/Buttonjs.PNG)
 
 <!-- ./src/components/Button/Button.css -->
 
 <!-- ./src/components/Button/Button.stories.js -->
 
-![Button-stories-js](./readme-images/writing-stories/Buttonstoriesjs.PNG)
+![Button-stories-js](./readme-images/writing-stories/button/Buttonstoriesjs.PNG)
+
+#### Another story (Input)
+
+Create a folder Input in ./src/components
+
+Create following files in ./src/components/Input
+
+Input.css
+
+Input.js
+
+Input.stories.js
+
+<!-- ./src/components/Input/Input.js -->
+
+![Input-js](./readme-images/writing-stories/input/Inputjs.PNG)
+
+<!-- ./src/components/Input/Input.css -->
+
+<!-- ./src/components/Input/Input.stories.js -->
+
+![Input-stories-js](./readme-images/writing-stories/input/Inputstoriesjs.PNG)
