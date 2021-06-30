@@ -225,4 +225,4 @@ Create a file ChakraButton.stories.js under ./src/components/ChakraButton
 
 <!-- ./.storybook/preview.js -->
 
-![preview-js](./readme-images/theming/previewjs.PNG)
+![preview-js](./readme-images/theming-and-decorators-v6/previewjs.PNG)
