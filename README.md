@@ -313,6 +313,8 @@ onClick action addon
 
 Actions addon
 
+onClick and onMouseOver addons together
+
 ![ChakraButton-stories-js](./readme-images/custom-addons/ChakraButtonstoriesjs-2.PNG)
 
 ![onClick-onMouseOver-actions-addon](./readme-images/custom-addons/onClick-onMouseOver-actions-addon.PNG)

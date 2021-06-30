@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from '@chakra-ui/core'
-import { action } from '@storybook/addon-actions'
+import { action, actions } from '@storybook/addon-actions'
 
 export default {
   title: 'Chakra/Button',
@@ -15,7 +15,11 @@ export const Success = () => (
     Success
   </Button>
 )
-export const Danger = () => <Button variantColor='red'>Danger</Button>
+export const Danger = () => (
+  <Button {...actions('onClick', 'onMouseOver')} variantColor='red'>
+    Danger
+  </Button>
+)
 
 // const Template = (args) => <Button {...args} />
 
