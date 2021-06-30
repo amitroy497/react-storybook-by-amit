@@ -154,11 +154,13 @@ In v6 each story is considered to be a component with set of arguments. For eg :
 Args mechanism start with having to create template.
 
 Button.stories.js
+
 ![Button-stories-js](./readme-images/using-srgs/Buttonstoriesjs-1.png)
 
 ![Button-stories-js](./readme-images/using-srgs/Buttonstoriesjs-2.png)
 
 Can define args as default export, so that all components have same children props.
+
 ![Button-stories-js](./readme-images/using-srgs/Buttonstoriesjs-3.png)
 
 Args at story level will overwrite the args at component level
