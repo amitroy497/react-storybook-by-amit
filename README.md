@@ -129,4 +129,4 @@ Renaming the Small to Small Input
 
 <!-- ./.storybook/preview.js -->
 
-![preview-js](./readme-images/sorting-stories/previewja.PNG)
+![preview-js](./readme-images/sorting-stories/previewjs.PNG)
