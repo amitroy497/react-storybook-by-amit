@@ -215,7 +215,7 @@ Create a file ChakraButton.stories.js under ./src/components/ChakraButton
 
 <!-- ./src/components/ChakraButton/ChakraButton.stories.js -->
 
-![ChakraButton-stories-js](./readme-images/theming/ChakraButton.stories.js.PNG)
+![ChakraButton-stories-js](./readme-images/theming/ChakraButtonstoriesjs.PNG)
 
 <!-- ./.storybook/preview.js -->
 
