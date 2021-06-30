@@ -116,3 +116,17 @@ Grouping components under a label (Form)
 <!-- ./src/components/Input/Input.stories.js -->
 
 ![Input-stories-js](./readme-images/story-hierachy/Form/Inputstoriesjs.PNG)
+
+##### Rename stories
+
+Renaming the Small to Small Input
+
+<!-- ./src/components/Input/Input.stories.js -->
+
+![Input-stories-js](./readme-images/rename-stories/Inputstoriesjs.PNG)
+
+###### Sorting stories
+
+<!-- ./.storybook/preview.js -->
+
+![preview-js](./readme-images/sorting-stories/previewja.PNG)
