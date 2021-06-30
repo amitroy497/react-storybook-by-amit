@@ -146,3 +146,19 @@ Advantages of writing story within story
 1. First we reduce the amount of code we write.
 
 2. If we made changes in the other story, it will automatically get reflected in this story.
+
+### Using args
+
+In v6 each story is considered to be a component with set of arguments. For eg :- props are considered as arguments.
+
+Args mechanism start with having to create template.
+
+Button.stories.js
+![Button-stories-js](./readme-images/using-srgs/Buttonstoriesjs-1.png)
+
+![Button-stories-js](./readme-images/using-srgs/Buttonstoriesjs-2.png)
+
+Can define args as default export, so that all components have same children props.
+![Button-stories-js](./readme-images/using-srgs/Buttonstoriesjs-3.png)
+
+Args at story level will overwrite the args at component level
