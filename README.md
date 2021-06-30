@@ -104,3 +104,15 @@ Input.stories.js
 <!-- ./src/components/Input/Input.stories.js -->
 
 ![Input-stories-js](./readme-images/writing-stories/input/Inputstoriesjs.PNG)
+
+#### Story Hierarchy
+
+Grouping components under a label (Form)
+
+<!-- ./src/components/Button/Button.stories.js -->
+
+![Button-stories-js](./readme-images/story-hierachy/Form/Buttonstoriesjs.PNG)
+
+<!-- ./src/components/Input/Input.stories.js -->
+
+![Input-stories-js](./readme-images/story-hierachy/Form/Inputstoriesjs.PNG)
