@@ -202,3 +202,21 @@ Local Decorators
 <!-- ./src/components/Button/Button.stories.js -->
 
 ![Button-stories-js](./readme-images/decorators/Buttonstoriesjs-3.PNG)
+
+### Theming
+
+<!-- CMD Command (Install package) -->
+
+yarn add @chakra-ui/core
+
+Create a folder ChakraButton under ./src/components
+
+Create a file ChakraButton.stories.js under ./src/components/ChakraButton
+
+<!-- ./src/components/ChakraButton/ChakraButton.stories.js -->
+
+![ChakraButton-stories-js](./readme-images/theming/ChakraButton.stories.js.PNG)
+
+<!-- ./.storybook/preview.js -->
+
+![preview-js](./readme-images/theming/previewjs.PNG)
