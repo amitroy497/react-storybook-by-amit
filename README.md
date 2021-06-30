@@ -207,7 +207,7 @@ Local Decorators
 
 <!-- CMD Command (Install package) -->
 
-yarn add @chakra-ui/core
+yarn add @chakra-ui/core @emotion/core
 
 Create a folder ChakraButton under ./src/components
 
@@ -302,3 +302,17 @@ Enable Measure Addon
 Outlines Addon
 
 ![Outlines-Addon](./readme-images/addons-in-v6/outlines-addon.PNG)
+
+### Custom Addons
+
+onClick action addon
+
+![ChakraButton-stories-js](./readme-images/custom-addons/ChakraButtonstoriesjs-1.PNG)
+
+![onClick-action-addon](./readme-images/custom-addons/onClick-addon.PNG)
+
+Actions addon
+
+![ChakraButton-stories-js](./readme-images/custom-addons/ChakraButtonstoriesjs-2.PNG)
+
+![onClick-onMouseOver-actions-addon](./readme-images/custom-addons/onClick-onMouseOver-actions-addon.PNG)
