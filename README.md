@@ -266,3 +266,39 @@ Can add actions (like onclick)
 ![ChakraButton-stories-js](./readme-images/addons-in-v6/ChakraButtonstoriesjs-2.PNG)
 
 ![Actions](./readme-images/addons-in-v6/actions.PNG)
+
+Docs Addon
+
+Can check code.
+
+![Docs-Addon](./readme-images/addons-in-v6/docs-addon.png)
+
+Grid Addon
+
+![Grid-Addon](./readme-images/addons-in-v6/grid-addon.png)
+
+Viewport Addon
+
+Small Mobile
+
+![Small Mobile](./readme-images/addons-in-v6/viewport-small-mobile.PNG)
+
+Large Mobile
+
+![Large Mobile](./readme-images/addons-in-v6/viewport-large-mobile.PNG)
+
+Tablet
+
+![Tablet](./readme-images/addons-in-v6/viewport-tablet.PNG)
+
+Enable Measure Addon
+
+![Measure-Addon](./readme-images/addons-in-v6/measure-addon-1.PNG)
+
+![Measure-Addon](./readme-images/addons-in-v6/measure-addon-2.PNG)
+
+![Measure-Addon](./readme-images/addons-in-v6/measure-addon-3.PNG)
+
+Outlines Addon
+
+![Outlines-Addon](./readme-images/addons-in-v6/outlines-addon.PNG)
