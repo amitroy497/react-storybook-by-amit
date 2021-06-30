@@ -226,3 +226,43 @@ Create a file ChakraButton.stories.js under ./src/components/ChakraButton
 <!-- ./.storybook/preview.js -->
 
 ![preview-js](./readme-images/theming-and-decorators-v6/previewjs.PNG)
+
+### Addons in v6
+
+Addons as the name implicate add extra features to the storybook.
+
+In v6, there are some essential addons which storybook install when we run the init command.
+
+Light and Dark Background
+
+Light Background :-
+
+![Light Background](./readme-images/addons-in-v6/light-background.PNG)
+
+Dark Background :-
+
+![Dark Background](./readme-images/addons-in-v6/dark-background.PNG)
+
+Clear Background :-
+
+![Clear Background](./readme-images/addons-in-v6/clear-background.PNG)
+
+<!-- ./src/components/ChakraButton/ChakraButton.stories.js -->
+
+![ChakraButton-stories-js](./readme-images/addons-in-v6/ChakraButtonstoriesjs-1.PNG)
+
+![Controls](./readme-images/addons-in-v6/controls.PNG)
+
+Green control can be change to any other color
+
+![Controls-variantColor](./readme-images/addons-in-v6/controls-variantColor.PNG)
+
+Children can also be changed
+
+![Controls-Children](./readme-images/addons-in-v6/controls-children.PNG)
+
+Can add actions (like onclick)
+
+![ChakraButton-stories-js](./readme-images/addons-in-v6/ChakraButtonstoriesjs-2.PNG)
+
+![Actions](./readme-images/addons-in-v6/actions.PNG)
