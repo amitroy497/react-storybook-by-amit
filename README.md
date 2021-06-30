@@ -83,7 +83,7 @@ Button.stories.js
 
 ![Button-stories-js](./readme-images/writing-stories/button/Buttonstoriesjs.PNG)
 
-#### Another story (Input)
+### Another story (Input)
 
 Create a folder Input in ./src/components
 
@@ -105,7 +105,7 @@ Input.stories.js
 
 ![Input-stories-js](./readme-images/writing-stories/input/Inputstoriesjs.PNG)
 
-#### Story Hierarchy
+### Story Hierarchy
 
 Grouping components under a label (Form)
 
@@ -117,7 +117,7 @@ Grouping components under a label (Form)
 
 ![Input-stories-js](./readme-images/story-hierachy/Form/Inputstoriesjs.PNG)
 
-##### Rename stories
+### Rename stories
 
 Renaming the Small to Small Input
 
@@ -125,8 +125,24 @@ Renaming the Small to Small Input
 
 ![Input-stories-js](./readme-images/rename-stories/Inputstoriesjs.PNG)
 
-###### Sorting stories
+### Sorting stories
 
 <!-- ./.storybook/preview.js -->
 
 ![preview-js](./readme-images/sorting-stories/previewjs.PNG)
+
+### Story within a story
+
+Create a folder Subscription under ./src
+
+Create a new file Subscription.stories.js
+
+<!-- ./src/Subscription/Subscription.stories.js -->
+
+![Subscription-stories-js](./readme-images/story-within-story/Subscriptionstoriesjs.PNG)
+
+Advantages of writing story within story
+
+1. First we reduce the amount of code we write.
+
+2. If we made changes in the other story, it will automatically get reflected in this story.
