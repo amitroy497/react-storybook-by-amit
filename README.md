@@ -275,7 +275,7 @@ Can check code.
 
 Grid Addon
 
-![Grid-Addon](./readme-images/addons-in-v6/grid-addon.png)
+![Grid-Addon](./readme-images/addons-in-v6/grid-addon.PNG)
 
 Viewport Addon
 
@@ -318,3 +318,29 @@ onClick and onMouseOver addons together
 ![ChakraButton-stories-js](./readme-images/custom-addons/ChakraButtonstoriesjs-2.PNG)
 
 ![onClick-onMouseOver-actions-addon](./readme-images/custom-addons/onClick-onMouseOver-actions-addon.PNG)
+
+### Console Addon
+
+onClick Console Log
+
+![ChakraButton-stories-js](./readme-images/console-addon/ChakraButtonstoriesjs.PNG)
+
+![onClick-Console-Log](./readme-images/console-addon/consolelog-1.PNG)
+
+There is a way to avoid opening console to view the log messages.
+
+For that we nee install a package
+
+yarn add -D @storybook/addon-console
+
+Then we have import the '@storybook/addon-console' in preview.js
+
+![preview-js](./readme-images/console-addon/previewjs.PNG)
+
+onClick Log we will get console message in the Actions box.
+
+![onClick-Console-Log](./readme-images/console-addon/consolelog-2.PNG)
+
+We can also ask the addon to print the story information where the log statement is form.
+
+For that modify the import statement in preview.js
